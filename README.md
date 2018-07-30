@@ -11,5 +11,11 @@ Quiz and answers are collected for quick search in my blog [SSQ](https://ssq.git
   - [x] [Jazz improvisation with LSTM]()
   
 - Week 2 Natural Language Processing & Word Embeddings
+  - Word Representation, Word embeddings, Embedding matrix
+  - Word2Vec & GloVe
+  - Sentiment Classification
+  - Debiasing word embeddings
+  - [x] [Operations on word vectors - Debiasing]()
+  - [ ] [Emojify]()
   
 - Week 3 Sequence models & Attention mechanism
